@@ -1,0 +1,20 @@
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\bin\Debug\Examen.exe.config
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\bin\Debug\Examen.exe
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\bin\Debug\Examen.pdb
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\obj\Debug\Examen.MainForm.resources
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\obj\Debug\Examen.exe
+D:\Алексей\Work\экзамен\задание 2\Examen\Examen\obj\Debug\Examen.pdb
+D:\Скачано\Examen-main\Examen\bin\Debug\Examen.exe.config
+D:\Скачано\Examen-main\Examen\bin\Debug\Examen.exe
+D:\Скачано\Examen-main\Examen\bin\Debug\Examen.pdb
+D:\Скачано\Examen-main\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+D:\Скачано\Examen-main\Examen\obj\Debug\Examen.MainForm.resources
+D:\Скачано\Examen-main\Examen\obj\Debug\Examen.Properties.Resources.resources
+D:\Скачано\Examen-main\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+D:\Скачано\Examen-main\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+D:\Скачано\Examen-main\Examen\obj\Debug\Examen.exe
+D:\Скачано\Examen-main\Examen\obj\Debug\Examen.pdb

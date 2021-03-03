@@ -1,0 +1,26 @@
+﻿body
+{
+    background: url(img/fon1.jpg);
+    background-size: 100%;
+}
+p {
+    border: 1px solid red;
+    padding: 10px;
+    background-color: #fff;
+    margin-left: 250px;
+    margin-top: 75px;
+    margin-right: 300px;
+}
+h1 {
+    font-family: 'Monotype Corsiva';
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.foundation {
+    display: flex;
+    justify-content: space-between;
+}
+.leftimg {
+    float: left;
+}
